@@ -122,7 +122,7 @@ where:
 
 - \(a_i\) = amplitude
 - \(b_i\) = width
-- \(\theta_i\) = center phase
+- \(theta_i\) = center phase
 
 The parameters are estimated using **Particle Swarm Optimization (PSO)**.
 
@@ -335,4 +335,3 @@ DOI: [10.1007/s13534-024-00362-7](https://doi.org/10.1007/s13534-024-00362-7)
 
 ---
 
- GitHub-ready** را هم برات می‌سازم.
